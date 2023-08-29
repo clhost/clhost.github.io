@@ -1,0 +1,24 @@
+site_name: clhost.doc
+site_description: "Documentation and articles provided by clhost"
+site_author: clhost
+
+theme:
+  name: "material"
+  palette:
+    - scheme: default
+      media: "(prefers-color-scheme: light)"
+      primary: "green"
+      accent: "green"
+      toggle:
+        name: Switch to dark mode
+        icon: material/toggle-switch-off-outline
+    - scheme: slate
+      media: "(prefers-color-scheme: dark)"
+      primary: "green"
+      accent: "green"
+      toggle:
+        name: Switch to light mode
+        icon: material/toggle-switch
+
+extra_css:
+  - "css/extra.css"
