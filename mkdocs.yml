@@ -19,6 +19,3 @@ theme:
       toggle:
         name: Switch to light mode
         icon: material/toggle-switch
-
-extra_css:
-  - "css/extra.css"
