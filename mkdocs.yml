@@ -1,21 +1,97 @@
-site_name: clhost.doc
-site_description: "Documentation and articles provided by clhost"
+site_name: clhost
+site_description: "clhost's personal site"
 site_author: clhost
+site_url: https://clhost.github.io
+
+extra:
+  social:
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/clhost
+    - icon: fontawesome/brands/github
+      link: https://github.com/clhost
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/clhost/
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:materialx.emoji.twemoji
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+plugins:
+  - search
+  - tags
+  - blog:
+      archive: false
+      categories_name: Topics
 
 theme:
   name: "material"
+  custom_dir: overrides
+  logo: assets/logo.png
+  favicon: assets/favicon.png
+  features:
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.path
+    - navigation.top
+    - toc.integrate
+    - toc.follow
   palette:
     - scheme: default
-      media: "(prefers-color-scheme: light)"
-      primary: "green"
-      accent: "green"
       toggle:
+        icon: material/brightness-7
         name: Switch to dark mode
-        icon: material/toggle-switch-off-outline
     - scheme: slate
-      media: "(prefers-color-scheme: dark)"
-      primary: "green"
-      accent: "green"
       toggle:
+        icon: material/brightness-4
         name: Switch to light mode
-        icon: material/toggle-switch
+
+nav:
+  - 'Home':
+      - index.md
+  - 'Articles':
+      - blog/index.md
+  - 'Projects':
+      - projects.md
+  - 'About me':
+      - about-me.md
