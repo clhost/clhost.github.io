@@ -1,5 +1,1 @@
----
-title: About me
----
-
 # Posts

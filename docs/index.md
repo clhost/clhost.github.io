@@ -5,19 +5,15 @@ hide:
   - toc
 ---
 
-<style>
-  .md-typeset h1 {
-    display: none;
-  }
-</style>
-
 ![Image title](assets/logo.png){ align=left }
+
+# Welcome!
 
 `Articles`
 
 : In here I share my own experience as a Software Engineer.
 
-[Go to articles :fontawesome-regular-circle-right:](blog){ .md-button .md-button--primary }
+[Go to Articles :fontawesome-regular-circle-right:](blog){ .md-button .md-button--primary }
 
 `Projects`
 
