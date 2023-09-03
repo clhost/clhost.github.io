@@ -11,18 +11,17 @@ hide:
 
 `Articles`
 
-: In here I share my own experience as a Software Engineer.
-
-[Go to Articles :fontawesome-regular-circle-right:](blog){ .md-button .md-button--primary }
+: In here I share my own experience as a Software Engineer [Go :fontawesome-regular-circle-right:{ .pulsating }](blog)
 
 `Projects`
 
-:   My own projects.
-
-[Go to Projects :fontawesome-regular-circle-right:](projects){ .md-button .md-button--primary }
+: My own projects [Go :fontawesome-regular-circle-right:{ .pulsating }](projects)
 
 `About me`
 
-:   A short description about my experience and who I am.
+: A short description about my experience and who I am [Go :fontawesome-regular-circle-right:{ .pulsating }](about-me)
 
-[Go to About me :fontawesome-regular-circle-right:](about-me){ .md-button .md-button--primary }
+[:fontawesome-brands-telegram:{ .pulsating } Telegram](https://t.me/clhost)
+[:fontawesome-brands-github:{ .pulsating } Github](https://t.me/clhost)
+[:fontawesome-brands-linkedin:{ .pulsating } LinkedIn](https://t.me/clhost)
+[:simple-leetcode:{ .pulsating } Leetcode](https://t.me/clhost)
