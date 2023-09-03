@@ -14,6 +14,8 @@ extra:
       link: https://github.com/clhost
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/clhost/
+    - icon: simple/leetcode
+      link: https://leetcode.com/clhost/
 
 markdown_extensions:
   - abbr
