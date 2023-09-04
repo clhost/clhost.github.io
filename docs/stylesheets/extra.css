@@ -10,3 +10,21 @@
 .pulsating {
   animation: pulsating 1000ms infinite;
 }
+
+:root {
+  --md-primary-fg-color:        #673AB7;
+  --md-primary-fg-color--light: #673AB7;
+  --md-primary-fg-color--dark:  #673AB7;
+}
+
+.md-header {
+    background-color: #673AB7
+}
+
+.md-tabs {
+    background-color: #673AB7
+}
+
+.md-h2 {
+    color: #673AB7
+}

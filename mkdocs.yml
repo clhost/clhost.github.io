@@ -19,6 +19,7 @@ extra:
 
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/admotions.css
 
 markdown_extensions:
   - abbr
@@ -27,8 +28,7 @@ markdown_extensions:
   - def_list
   - footnotes
   - md_in_html
-  - toc:
-      permalink: true
+  - toc
   - pymdownx.snippets
   - pymdownx.arithmatex:
       generic: true
@@ -39,6 +39,9 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_generator: !!python/name:materialx.emoji.to_svg
       emoji_index: !!python/name:materialx.emoji.twemoji
+      options:
+        custom_icons:
+          - overrides/.icons
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
@@ -89,20 +92,20 @@ theme:
     - toc.integrate
     - toc.follow
   palette:
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/brightness-auto
-        name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
+      primary: deep purple
+      accent: deep purple
       scheme: default
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
+      primary: deep purple
+      accent: deep purple
       scheme: slate
       toggle:
         icon: material/brightness-4
-        name: Switch to system preference
+        name: Switch to light mode
 
 nav:
   - 'Home':
