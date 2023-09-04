@@ -5,15 +5,6 @@ hide:
 
 # Personal information [<font size=5><span style="float: right;">Open PDF version :material-open-in-new:</span></font>](cv/CV.pdf)
 
-## :material-contacts: Contacts
-
----
-
-<font size=5> [:own-telegram:{ .pulsating } Telegram](https://t.me/clhost) </font>
-<font size=5> [:own-github:{ .pulsating } Github](https://github.com/clhost) </font>
-<font size=5> [:own-linkedin:{ .pulsating } LinkedIn](https://www.linkedin.com/in/clhost/) </font>
-<font size=5> [:own-leetcode:{ .pulsating } Leetcode](https://leetcode.com/clhost/) </font>
-
 ## :fontawesome-solid-user-tie: Profile
 
 ---
@@ -25,6 +16,13 @@ hide:
     <font size=3> I'm longing to design and develop highly available, highly loaded, fault tolerant and event driven systems. </font>
     
     <font size=3> I believe in that system should be implemented with proper DDD approach to make system understandable and scalable without pain, being in touch with domain restrictions and using ubiquitous language. </font>
+
+!!! info-block "<font size=3> Contacts </font>"
+
+    <font size=4> [:own-telegram: Telegram](https://t.me/clhost) </font>
+    <font size=4> [:own-github: Github](https://github.com/clhost) </font>
+    <font size=4> [:own-linkedin: LinkedIn](https://www.linkedin.com/in/clhost/) </font>
+    <font size=4> [:own-leetcode: LeetCode](https://leetcode.com/clhost/) </font>
 
 ## :fontawesome-solid-gears: Skills
 
