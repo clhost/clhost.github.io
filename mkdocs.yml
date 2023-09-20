@@ -114,5 +114,26 @@ nav:
       - blog/index.md
   - 'Projects':
       - projects.md
+  - 'Algorithms':
+      - algorithms/index.md
+      - Frameworks:
+          - Binary search: algorithms/frameworks/binary-search.md
+          - Backtracking: algorithms/frameworks/backtracking.md
+          - Prefix sum: algorithms/frameworks/prefix-sum.md
+          - Sliding window: algorithms/frameworks/sliding-window.md
+          - Two pointers: algorithms/frameworks/two-pointers.md
+          - Greedy: algorithms/frameworks/greedy.md
+          - Dynamic programming: algorithms/frameworks/dynamic-programming.md
+          - Divide and conquer: algorithms/frameworks/divide-and-conquer.md
+      - Data structures:
+          - Monotonic stack: algorithms/datastructures/monotonic-stack.md
+          - Tree: algorithms/datastructures/tree.md
+          - Graph: algorithms/datastructures/graph.md
+          - Trie: algorithms/datastructures/trie.md
+          - Heap / Priority queue: algorithms/datastructures/heap-priority-queue.md
+      - Specific cases:
+          - Intervals: algorithms/cases/intervals.md
+          - Hash table: algorithms/cases/hash-table.md
+          - Linked list: algorithms/cases/linked-list.md
   - 'About me':
       - about-me.md

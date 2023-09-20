@@ -19,5 +19,5 @@ hide:
 
 `About me`
 
-: A short description about my experience and who I am [Go :fontawesome-regular-circle-right:](about-me)
+: Short description about my experience and who I am [Go :fontawesome-regular-circle-right:](about-me)
 
