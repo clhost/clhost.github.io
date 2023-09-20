@@ -11,13 +11,17 @@ hide:
 
 `Articles`
 
-: In here I share my own experience as a Software Engineer [Go :fontawesome-regular-circle-right:](blog)
+: In here I share my own experience as a Software Engineer [:fontawesome-regular-circle-right:](blog)
 
 `Projects`
 
-: My own projects [Go :fontawesome-regular-circle-right:](projects)
+: My own projects [:fontawesome-regular-circle-right:](projects)
+
+`Algorithms`
+
+: My own notes for algorithms [:fontawesome-regular-circle-right:](algorithms)
 
 `About me`
 
-: Short description about my experience and who I am [Go :fontawesome-regular-circle-right:](about-me)
+: Short description about my experience and who I am [:fontawesome-regular-circle-right:](about-me)
 
