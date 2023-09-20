@@ -113,7 +113,8 @@ nav:
   - 'Articles':
       - blog/index.md
   - 'Projects':
-      - projects.md
+      - projects/index.md
+      - Eng micro platform: projects/eng-micro-platform.md
   - 'Algorithms':
       - algorithms/index.md
       - Frameworks:
