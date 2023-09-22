@@ -11,7 +11,7 @@ For example, we have an array like ```[8, 6, 3, 5, 4, 9, 2]```.
 
 How to determine the range in which an element is minimum?
 
-For example, for the element ```4``` it's ```[3, 5, 4, 9, 2]```.
+For example, for the element ```4``` it's ```(3, 5, 4, 9, 2)```.
 
 The solution is:
 
