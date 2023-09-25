@@ -5,23 +5,38 @@ hide:
   - toc
 ---
 
-![Image title](assets/logo.png){ align=left }
+# 
 
-# Welcome!
+<div class="grid cards" markdown>
 
-`Articles`
+-   :material-format-font:{ .lg .middle } __Articles__
 
-: In here I share my own experience as a Software Engineer [:fontawesome-regular-circle-right:](blog)
+    ---
 
-`Projects`
+    Own experience as a Software Engineer
 
-: My own projects [:fontawesome-regular-circle-right:](projects)
+    [:octicons-arrow-right-24: Read articles](blog)
 
-`Algorithms`
+-   :material-folder-wrench:{ .lg .middle } __Projects__
 
-: My own notes for algorithms [:fontawesome-regular-circle-right:](algorithms)
+    ---
 
-`About me`
+    All about my personal projects
 
-: Short description about my experience and who I am [:fontawesome-regular-circle-right:](about-me)
+    [:octicons-arrow-right-24: Take a look](projects)
 
+-   :material-regex:{ .lg .middle } __Algorithms__
+
+    ---
+
+    Own notes for algorithms
+
+    [:octicons-arrow-right-24: Learn something new](algorithms)
+
+</div>
+
+---
+
+<font size=4><p align=center> Contacts </p></font>
+
+<font size=4><p align=center> [:own-github: Github](https://github.com/clhost) [:own-telegram: Telegram](https://t.me/clhost) [:own-linkedin: LinkedIn](https://www.linkedin.com/in/clhost/) [:own-leetcode: LeetCode](https://leetcode.com/clhost/)</p></font>

@@ -91,21 +91,26 @@ theme:
     - navigation.indexes
     - toc.integrate
     - toc.follow
+    - content.tooltips
   palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
-      primary: deep purple
-      accent: deep purple
+      primary: black
+      accent: indigo
       scheme: default
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
-      primary: deep purple
-      accent: deep purple
+      primary: black
+      accent: indigo
       scheme: slate
       toggle:
         icon: material/brightness-4
-        name: Switch to light mode
+        name: Switch to system preference
 
 nav:
   - 'Home':

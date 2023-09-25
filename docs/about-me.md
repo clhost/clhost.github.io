@@ -7,8 +7,6 @@ hide:
 
 ## :fontawesome-solid-user-tie: Profile
 
----
-
 !!! info-block "<font size=3> Who I am </font>"
 
     <font size=3> I'm a software engineer with 5 years of professional experience in FinTech. </font>
@@ -17,16 +15,7 @@ hide:
     
     <font size=3> I believe in that system should be implemented with proper DDD approach to make system understandable and scalable without pain, being in touch with domain restrictions and using ubiquitous language. </font>
 
-!!! info-block "<font size=3> Contacts </font>"
-
-    <font size=4> [:own-telegram: Telegram](https://t.me/clhost) </font>
-    <font size=4> [:own-github: Github](https://github.com/clhost) </font>
-    <font size=4> [:own-linkedin: LinkedIn](https://www.linkedin.com/in/clhost/) </font>
-    <font size=4> [:own-leetcode: LeetCode](https://leetcode.com/clhost/) </font>
-
 ## :fontawesome-solid-gears: Skills
-
----
 
 !!! info-block "<font size=3> Engineering skills </font>"
     
@@ -52,18 +41,17 @@ hide:
 
 ## :fontawesome-solid-briefcase: Work Experience
 
----
+!!! info-block "<font size=3> Mobile Card LLC <span style="float: right;">Feb 2020 — Sep 2023</span> </font>"
 
-!!! info-block "<font size=3> Mobile Card LLC <span style="float: right;">Feb 2020 — Aug 2023</span> </font>"
-
-    - <font size=3> <font size=2> :material-tag: </font> Worked on a payment system which processed millions of payments per day. </font>
-    - <font size=3> <font size=2> :material-tag: </font> I participated in developing a completely new event-driven microservices platform as a replacement of a legacy system in order to achieve high availability, scalability and fault tolerance, working with DDD approach with strategic and tactical patterns. I gained experience in designing, developing and refactoring of all parts of the system. </font>
+    - <font size=3> <font size=2> :material-tag: </font> Participated in developing a completely new event-driven microservices platform as a replacement of a legacy system in order to achieve high availability, scalability and fault tolerance, working with DDD approach with strategic and tactical patterns. Gained experience in designing, developing and refactoring of all parts of the system. </font>
     - <font size=3> <font size=2> :material-tag: </font> Analyzed and improved the conversion of payments in order to increase the profits of the company. </font>
-    - <font size=3> <font size=2> :material-tag: </font> Developed new payment gates for 2 banks to operation with (refill, withdraw operations). </font>
-    - <font size=3> <font size=2> :material-tag: </font> Invented an open-source process inside the company by writing a lot of libraries that cover all infrastructure of the microservices platform to reduce time-to-market and have a routineless development. </font>
-    - <font size=3> <font size=2> :material-tag: </font> I worked in the Platform team to reduce time-to-market by creating a CI/CD workflow for microservices that covers all parts of interaction with infrastructure. Also, I gained experience with designing and creating templates and manifests for microservices and writing CLI tools that helps developers to work comfortable. </font>
+    - <font size=3> <font size=2> :material-tag: </font> Developed new payment gates for 2 banks to operation with (refill, withdraw operations) in order to increase availability of entire system. </font>
+    - <font size=3> <font size=2> :material-tag: </font> Invented an open-source process inside the company by writing a lot of libraries that cover all infrastructure of the microservices platform in order to reduce time-to-market and have a routineless development. </font>
+    - <font size=3> <font size=2> :material-tag: </font> Worked in the Platform team to reduce time-to-market by creating a CI/CD workflow for microservices that covers all parts of interaction with infrastructure. Gained experience with designing and creating templates and manifests for microservices and writing CLI tools that helps developers to work comfortable. </font>
 
     ---
+    
+    <font size=3> :fontawesome-solid-house-fire: **System:** A payment system which processed millions of payments per day. </font>
     
     <font size=3> :fontawesome-solid-house-fire: **Arch:** DDD, Event Sourcing, CQRS, multi-layered architecture, event driven architecture, microservices. </font>
     
@@ -80,8 +68,6 @@ hide:
     <font size=3> :material-tools: **Technologies:** Java, Spring Boot, Netflix OSS, Consul, RabbitMQ, Oracle, Gitlab CI/CD, Docker. </font>
 
 ## :fontawesome-solid-graduation-cap: Education
-
----
 
 !!! info-block "<font size=3> Peter the Great St.Petersburg Polytechnic University <span style="float: right;">Aug 2015 — Jul 2019</span> </font>"
 

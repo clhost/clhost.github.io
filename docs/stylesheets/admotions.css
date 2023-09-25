@@ -4,17 +4,17 @@
 
 .md-typeset .admonition.info-block,
 .md-typeset details.info-block {
-  border-color: rgb(124, 77, 255);
+  border-color: rgb(20, 21, 27);
 }
 
 .md-typeset .info-block > .admonition-title,
 .md-typeset .info-block > summary {
-  background-color: rgba(124, 77, 255, 0.1);
+  background-color: rgba(20, 21, 27, 0.1);
 }
 
 .md-typeset .info-block > .admonition-title::before,
 .md-typeset .info-block > summary::before {
-  background-color: rgb(124, 77, 255);
+  background-color: rgb(20, 21, 27);
   -webkit-mask-image: var(--md-admonition-icon--info-block);
           mask-image: var(--md-admonition-icon--info-block);
 }
