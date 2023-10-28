@@ -139,7 +139,5 @@ nav:
           - Heap / Priority queue: algorithms/datastructures/heap-priority-queue.md
       - Specific cases:
           - Intervals: algorithms/cases/intervals.md
-          - Hash table: algorithms/cases/hash-table.md
+          - Hash map: algorithms/cases/hash-map.md
           - Linked list: algorithms/cases/linked-list.md
-  - 'About me':
-      - about-me.md

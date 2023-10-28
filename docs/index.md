@@ -34,9 +34,3 @@ hide:
     [:octicons-arrow-right-24: Learn something new](algorithms)
 
 </div>
-
----
-
-<font size=4><p align=center> Contacts </p></font>
-
-<font size=4><p align=center> [:own-github: Github](https://github.com/clhost) [:own-telegram: Telegram](https://t.me/clhost) [:own-linkedin: LinkedIn](https://www.linkedin.com/in/clhost/) [:own-leetcode: LeetCode](https://leetcode.com/clhost/)</p></font>
